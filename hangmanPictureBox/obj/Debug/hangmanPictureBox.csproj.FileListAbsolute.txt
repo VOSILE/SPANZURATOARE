@@ -1,0 +1,11 @@
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\obj\Debug\hangmanPictureBox.csproj.AssemblyReference.cache
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\obj\Debug\hangmanPictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\obj\Debug\hangmanPictureBox.csproj.GenerateResource.cache
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\obj\Debug\hangmanPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\obj\Debug\SPANZURATOARE.SPANZURATOAREA.resources
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\obj\Debug\SPANZURATOARE.Properties.Resources.resources
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\bin\Debug\SPANZURATOARE.exe.config
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\bin\Debug\SPANZURATOARE.exe
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\bin\Debug\SPANZURATOARE.pdb
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\obj\Debug\SPANZURATOARE.exe
+C:\Users\gheor\source\repos\hangmanPictureBox\hangmanPictureBox\obj\Debug\SPANZURATOARE.pdb
