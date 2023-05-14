@@ -20,12 +20,12 @@ namespace SPANZURATOARE
 
         private void StartGame()
         {
-            // Initialize variables
+            
             wordToGuess = wordsToGuess[random.Next(wordsToGuess.Length)];
             wordDisplayed = new string('*', wordToGuess.Length);
             numGuesses = 0;
 
-            // Update display
+            
             UpdateDisplay();
         }
 
@@ -37,17 +37,17 @@ namespace SPANZURATOARE
 
         private void buttonGuess_Click(object sender, EventArgs e)
         {
-            // Get user input
+            
             string guess = textBoxGuess.Text.ToLower();
 
-            // Check if guess is valid
+            
             if (string.IsNullOrEmpty(guess) || guess.Length != 1 || !char.IsLetter(guess[0]))
             {
                 MessageBox.Show("Pune o singura litera pliz", "NE NE NEE");
                 return;
             }
 
-            // Check if guess is correct
+            
             bool guessCorrect = false;
             for (int i = 0; i < wordToGuess.Length; i++)
             {
@@ -58,7 +58,7 @@ namespace SPANZURATOARE
                 }
             }
 
-            // Update game state and display
+            
             if (guessCorrect)
             {
                 if (wordDisplayed == wordToGuess)
@@ -78,7 +78,7 @@ namespace SPANZURATOARE
             }
             UpdateDisplay();
 
-            // Clear user input
+            
             textBoxGuess.Clear();
         }
     }
